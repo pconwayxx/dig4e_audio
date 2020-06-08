@@ -16,10 +16,10 @@
 ],
 "modules": [
 {
-    "title": "What is sound?",
-    "anchor": "what-is-sound",
+    "title": "What is Recorded Sound?",
+    "anchor": "what-is-recorded-sound",
     "icon" : "fa-clone",
-    "description": "We learn about the sensory perception of sound and how analog media record audible sounds.",
+    "description": "We learn about how analog media record the sensory perception of sound.",
     "slides": "lectures/01_html5.zip",
     "references" : [
         {
@@ -103,7 +103,7 @@
     "title": "Audio Standards Overview",
     "anchor": "audio-standards-overview",
     "icon" : "fa-clone",
-    "description": "We learn about a framework of standards and guidelines for producing archival master files.",
+    "description": "We learn about standards and guidelines for producing archival master files.",
     "slides": "lectures/02_html5.zip",
     "references" : [
         {
@@ -207,7 +207,7 @@
     "title": "Audio Ethics",
     "anchor": "audio-ethics",
     "icon" : "fa-clone",
-    "description": "We learn about the ethical implications of the decisions that produces archival quality digital files of audio resources.",
+    "description": "We learn about the ethics producing archival quality digital files of audio resources.",
     "slides": "lectures/03_html5.zip",
     "references" : [
         {
@@ -324,7 +324,7 @@
     "title": "Audio Media Assessment",
     "anchor": "audio-media-assessment",
     "icon" : "fa-clone",
-    "description": "We introduce case studies of audio digitization and learn about assessing the risk and value of analog audio media.",
+    "description": "We learn about assessing the risk and value of analog audio media and establishing priorities.",
     "slides": "lectures/01_css3.zip",
     "references" : [
         {
@@ -430,10 +430,10 @@
     ]
 },
 {
-    "title": "Audio Playback Equipment",
-    "anchor": "audio-playback-equipment",
+    "title": "Audio Playback",
+    "anchor": "audio-playback",
     "icon" : "fa-clone",
-    "description": "We learn about the complexities of legacy media playback for digitization.",
+    "description": "We learn about the importance of good playback equipment for digitizing analog audio resources.",
     "slides": "lectures/02_css3.zip",
     "references" : [
         {
@@ -543,10 +543,10 @@
     ]
 },
 {
-    "title": "Analog to Digital Conversion Tools",
-    "anchor": "analog-to-digital-conversion-tools",
+    "title": "Analog to Digital Converters",
+    "anchor": "analog-to-digital-converters",
     "icon" : "fa-clone",
-    "description": "We learn to assess hardware for analog to digital conversion.",
+    "description": "We learn about the characteristics of analog to digital converters.",
     "slides": "lectures/03_css3.zip",
     "references" : [
         {
@@ -698,7 +698,7 @@
     "title": "Audio Digitization Standards",
     "anchor": "audio-digitization-standards",
     "icon" : "fa-clone",
-    "description": "We learn to interpret the standards for digitizing an analog signal to archival standards.",
+    "description": "We learn about the core criteria for digitizing an analog signal to archival standards.",
     "slides": "lectures/01_js.zip",
     "references" : [
         {
@@ -799,10 +799,10 @@
     ]
 },
 {
-    "title": "Digitizing Magnetic Tape",
-    "anchor": "digitizing-magnetic-tape",
+    "title": "Digitizing Analog Materials",
+    "anchor": "digitizing-analog-materials",
     "icon" : "fa-clone",
-    "description": "We learn about the processes required to extract audio signals from legacy analog sources.",
+    "description": "We learn about extracting the audio signal from magnetic tapes and convert to digital.",
     "slides": "lectures/02_js.zip",
     "references" : [
         {
@@ -888,10 +888,10 @@
     ]
 },
 {
-    "title": "Sustainable Digital Formats",
-    "anchor": "sustainable-digital-formats",
+    "title": "Metadata Standards for Audio",
+    "anchor": "metadata-standards-for-audio",
     "icon" : "fa-clone",
-    "description": "We learn about the Broadcast Wave Format for structuring archival quality digitized sound files.",
+    "description": "We learn about the varieties of technical metadata for audio files.",
     "slides": "lectures/03_js.zip",
     "references" : [
         {
@@ -968,10 +968,10 @@
     ]
 },
 {
-    "title": "Embedded Metadata for Audio",
-    "anchor": "embedded-metadata-for-audio",
+    "title": "Sustainable Digital Formats for Audio",
+    "anchor": "sustainable-digital-formats-for-audio",
     "icon" : "fa-clone",
-    "description": "We learn about the standards and tools for including technical features of digitized audio inside the files.",
+    "description": "We learn about the Broadcast Wave File format for archival quality digitized sound files.",
     "slides": "lectures/04_js.zip",
     "references" : [
         {
@@ -1044,10 +1044,10 @@
     ]
 },
 {
-    "title": "Metadata Standards for Audio",
-    "anchor": "metadata-standards-for-audio",
+    "title": "Embedded Metadata for Audio",
+    "anchor": "embedded-metadata-for-audio",
     "icon" : "fa-clone",
-    "description": "We learn about the varieties of metadata for audio files, including unique identifiers, checksums, and technical metadata.",
+    "description": "We learn about documenting technical features in audio file headers.",
     "slides": "lectures/01_rd.zip",
     "references" : [
         {
@@ -1143,7 +1143,7 @@
     "title": "Audio Distribution Formats",
     "anchor": "audio-distribution-formats",
     "icon" : "fa-clone",
-    "description": "We learn about the most widely used formats for distributing digitized audio files in compressed formats.",
+    "description": "We learn about formats for distributing digitized audio files in compressed formats.",
     "slides": "lectures/02_rd.zip",
     "references" : [
         {
@@ -1208,7 +1208,7 @@
     "title": "Future of Audio Digitization",
     "anchor": "future-of-audio-digitization",
     "icon" : "fa-clone",
-    "description": "We consider emerging technical trends that address challenges at scale.",
+    "description": "We consider the overall risk to audio heritage and technical trends that address challenges at scale.",
     "slides": "lectures/03_rd.zip",
     "references" : [
         {
