@@ -22,15 +22,19 @@
     "description": "We learn about how analog media record the sensory perception of sound.",
     "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "Aural sensory perception [ear, hearing, human norms and variation]",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
+            "title" : "Technical constructs of recording and playback [a model]",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Digital imaging terminology",
+            "title" : "What is recorded sound?",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Examples of large-scale audio collections",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -119,15 +123,15 @@
     "description": "We learn about standards and guidelines for producing archival master files.",
     "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "A brief history of standardization [in audio recording and digitization]",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
+            "title" : "Overview of international audio standards bodies [including standards document copyrights]",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Digital imaging terminology",
+            "title" : "Introduction to IASA TC-04 (2009)",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -236,15 +240,15 @@
     "description": "We learn about the ethics producing archival quality digital files of audio resources.",
    "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "Audiovisual professional ethics [audiovisual archiving]",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
+            "title" : "Ethics and the archival master – [quality and permanence]",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Digital imaging terminology",
+            "title" : "Implications of human intervention – [transparency]",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -366,15 +370,15 @@
     "description": "We learn about assessing the risk and value of analog audio media and establishing priorities.",
    "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "Magnetic recording media (1) – history and formats",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
+            "title" : "Magnetic recording media (2) – deterioration and environmental controls",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Digital imaging terminology",
+            "title" : "Assessing risk and value (MediaScore) – deciding where to start",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -488,15 +492,11 @@
     "description": "We learn about the importance of good playback equipment for digitizing analog audio resources.",
     "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "General Principles and challenges of machine dependence of audio",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
-            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
-        },
-        {
-            "title" : "Digital imaging terminology",
+            "title" : "Minimum equipment suggestions for in-house media inspection",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -614,15 +614,11 @@
     "description": "We learn about the characteristics of analog to digital converters.",
    "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "The physics of analog to digital conversion",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
-            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
-        },
-        {
-            "title" : "Digital imaging terminology",
+            "title" : "A/D converter specifications",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -699,15 +695,11 @@
     "description": "We learn about contracting with third-party vendors for digitization services.",
     "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "Partnerships and project planning",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
-            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
-        },
-        {
-            "title" : "Digital imaging terminology",
+            "title" : "Contracting for audio digitization services",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -792,15 +784,11 @@
     "description": "We learn about the core criteria for digitizing an analog signal to archival standards.",
     "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "Pulse Code Modulation (sampling rates and bit depth)",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
-            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
-        },
-        {
-            "title" : "Digital imaging terminology",
+            "title" : "Applying IASA specifications in practice[including standards document copyrights]",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -909,15 +897,15 @@
     "description": "We learn about extracting the audio signal from magnetic tapes and convert to digital.",
     "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "Reproduction of Analog Magnetic Tapes",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
+            "title" : "Reproduction of Microgroove LP Records",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Digital imaging terminology",
+            "title" : "Detecting problems with digitization",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -1011,15 +999,15 @@
     "description": "We learn about the varieties of technical metadata for audio files.",
     "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "Types of metadata for describing audio files",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
+            "title" : "MODS and METS for audio files",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Digital imaging terminology",
+            "title" : "Alternative and emergent audio metadata schemes",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -1104,15 +1092,11 @@
     "description": "We learn about the Broadcast Wave File format for archival quality digitized sound files.",
     "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "Sustainable file formats for audio [in audio recording and digitization]",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
-            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
-        },
-        {
-            "title" : "Digital imaging terminology",
+            "title" : "The BWF format (and alternative)",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -1193,15 +1177,11 @@
     "description": "We learn about documenting technical features in audio file headers.",
     "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "Embedded metadata in audio files",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
-            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
-        },
-        {
-            "title" : "Digital imaging terminology",
+            "title" : "BWF MetaEdit",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -1302,15 +1282,15 @@
     "description": "We learn about formats for distributing digitized audio files in compressed formats.",
     "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "Core constructs of distribution format, including VLC playback",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
+            "title" : "The pros and cons of the MP3 format",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Digital imaging terminology",
+            "title" : "Alternative distribution formats – optimizing for YouTube and Netflix",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
@@ -1380,15 +1360,23 @@
     "description": "We consider the overall risk to audio heritage and technical trends that address challenges at scale.",
    "lectures": [
         {
-            "title" : "Visual foundations",
+            "title" : "How to keep up on the trends in audio digitization",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Seeing on screen and in print",
+            "title" : "Text transcription of Spoken word files and the application of Artificial Intelligence to understanding the content of audio files (HiPSTAS) – guest",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Digital imaging terminology",
+            "title" : "Debates over the compression of audio files for long term preservation – guest",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Optical technologies and the digitization of grooved media (IRENE) – guest",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Copyright and intellectual property (wading into the minefield + sec. 108 permissions) – guest",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
