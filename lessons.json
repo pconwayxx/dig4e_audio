@@ -20,7 +20,20 @@
     "anchor": "what-is-recorded-sound",
     "icon" : "fa-clone",
     "description": "We learn about how analog media record the sensory perception of sound.",
-    "slides": "lectures/01_html5.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Syllabus",
@@ -104,7 +117,20 @@
     "anchor": "audio-standards-overview",
     "icon" : "fa-clone",
     "description": "We learn about standards and guidelines for producing archival master files.",
-    "slides": "lectures/02_html5.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Video: The Document Object Model [DOM]",
@@ -208,7 +234,20 @@
     "anchor": "audio-ethics",
     "icon" : "fa-clone",
     "description": "We learn about the ethics producing archival quality digital files of audio resources.",
-    "slides": "lectures/03_html5.zip",
+   "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Video: Accessibility",
@@ -325,7 +364,20 @@
     "anchor": "audio-media-assessment",
     "icon" : "fa-clone",
     "description": "We learn about assessing the risk and value of analog audio media and establishing priorities.",
-    "slides": "lectures/01_css3.zip",
+   "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Syllabus",
@@ -434,7 +486,20 @@
     "anchor": "audio-playback",
     "icon" : "fa-clone",
     "description": "We learn about the importance of good playback equipment for digitizing analog audio resources.",
-    "slides": "lectures/02_css3.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Resources",
@@ -547,7 +612,20 @@
     "anchor": "analog-to-digital-converters",
     "icon" : "fa-clone",
     "description": "We learn about the characteristics of analog to digital converters.",
-    "slides": "lectures/03_css3.zip",
+   "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Resources",
@@ -619,7 +697,20 @@
     "anchor": "outsourcing-audio-services",
     "icon" : "fa-clone",
     "description": "We learn about contracting with third-party vendors for digitization services.",
-    "slides": "lectures/04_css3.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Resources",
@@ -699,7 +790,20 @@
     "anchor": "audio-digitization-standards",
     "icon" : "fa-clone",
     "description": "We learn about the core criteria for digitizing an analog signal to archival standards.",
-    "slides": "lectures/01_js.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Syllabus",
@@ -803,7 +907,20 @@
     "anchor": "digitizing-analog-materials",
     "icon" : "fa-clone",
     "description": "We learn about extracting the audio signal from magnetic tapes and convert to digital.",
-    "slides": "lectures/02_js.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Link to All of the Code for Week 2",
@@ -892,7 +1009,20 @@
     "anchor": "metadata-standards-for-audio",
     "icon" : "fa-clone",
     "description": "We learn about the varieties of technical metadata for audio files.",
-    "slides": "lectures/03_js.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Link to All of the Code for Week 3",
@@ -972,7 +1102,20 @@
     "anchor": "sustainable-digital-formats-for-audio",
     "icon" : "fa-clone",
     "description": "We learn about the Broadcast Wave File format for archival quality digitized sound files.",
-    "slides": "lectures/04_js.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Link to All of the Code for Week 4",
@@ -1048,7 +1191,20 @@
     "anchor": "embedded-metadata-for-audio",
     "icon" : "fa-clone",
     "description": "We learn about documenting technical features in audio file headers.",
-    "slides": "lectures/01_rd.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Document: Syllabus",
@@ -1144,7 +1300,20 @@
     "anchor": "audio-distribution-formats",
     "icon" : "fa-clone",
     "description": "We learn about formats for distributing digitized audio files in compressed formats.",
-    "slides": "lectures/02_rd.zip",
+    "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Video: Media Queries",
@@ -1209,7 +1378,20 @@
     "anchor": "future-of-audio-digitization",
     "icon" : "fa-clone",
     "description": "We consider the overall risk to audio heritage and technical trends that address challenges at scale.",
-    "slides": "lectures/03_rd.zip",
+   "lectures": [
+        {
+            "title" : "Visual foundations",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Seeing on screen and in print",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Digital imaging terminology",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+    ],
     "references" : [
         {
             "title" : "Video: Frameworks",
