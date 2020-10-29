@@ -22,15 +22,15 @@
     "description": "We learn about how analog media record the sensory perception of sound.",
     "lectures": [
         {
-            "title" : "Aural sensory perception [ear, hearing, human norms and variation]",
-            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
-        },
-        {
-            "title" : "Technical constructs of recording and playback [a model]",
+            "title" : "Aural sensory perception",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
             "title" : "What is recorded sound?",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "Technical constructs of recording and playback",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
@@ -40,72 +40,16 @@
     ],
     "references" : [
         {
-            "title" : "Document: Syllabus",
+            "title" : "IASA TC-04 sec 5.2 Reproduction of Historical and Obsolete Mechanical Formats. 2009. pp. 32-44.pdf",
             "href" : "pages/html5/01_syllabus.php"
         },
         {
-            "title" : "Video: Introduction to HTML5",
+            "title" : "AES Calibration Record. Coarse groove, lateral monophonic cut. 2007.pdf",
             "href" : "https://www.coursera.org/learn/html/lecture/Ilm91/01-01-welcome-to-introduction-to-html5"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to HTML5",
+            "title" : "Wikipedia articles",
             "href" : "lectures/01_html5/01_01-intro_to_html.pdf"
-        },
-        {
-            "title" : "Document: Required Materials",
-            "href" : "pages/html5/02_materials.php"
-        },
-        {
-            "title" : "Document: Optional Resources",
-            "href" : "pages/html5/03_optional.php"
-        },
-        {
-            "title" : "Video: The Evolution of HTML5",
-            "href" : "https://www.coursera.org/learn/html/lecture/Lhlau/01-02-the-evolution-of-html"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: The Evolution of HTML5",
-            "href" : "lectures/01_html5/01_02-evolution_of_html.pdf"
-        },
-        {
-            "title" : "Document: OPTIONAL - The Browser Wars",
-            "href" : "pages/html5/04_wars.php"
-        },
-        {
-            "title" : "Document: OPTIONAL - The Origins of MOSAIC",
-            "href" : "pages/html5/05_mosaic.php"
-        },
-        {
-            "title" : "Video: How it Works: The 'Magic' of Page Requests",
-            "href" : "https://www.coursera.org/learn/html/lecture/5syEt/01-03-how-it-works-the-magic-of-page-requests"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: The 'Magic' of Page Requests",
-            "href" : "lectures/01_html5/01_03-page_requests.pdf"
-        },
-        {
-            "title" : "Document: Browsers",
-            "href" : "pages/html5/06_browsers.php"
-        },
-        {
-            "title" : "Video: Looking at Your Browsing Options",
-            "href" : "https://www.coursera.org/learn/html/lecture/rPIuh/01-04-looking-at-your-browser-options"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Looking at Your Browsing Options",
-            "href" : "lectures/01_html5/01_04-browsing_options.pdf"
-        },
-        {
-            "title" : "Document: OPTIONAL - How Well Does Your Browser Support HTML5?",
-            "href" : "pages/html5/07_support.php"
-        },
-        {
-            "title" : "Video: Editors: How to use an editor to create an HTML file",
-            "href" : "https://www.coursera.org/learn/html/lecture/wsxd5/01-05-editors-how-to-use-an-editor-to-create-an-html-file"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Editors: How to use an editor to create an HTML file",
-            "href" : "lectures/01_html5/01_05-editors.pdf"
         }
     ],
     "lti" : [
