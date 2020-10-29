@@ -53,15 +53,21 @@
     "references" : [
         {
             "title" : "IASA TC-04 sec 5.2 Reproduction of Historical and Obsolete Mechanical Formats. 2009. pp. 32-44.pdf",
-            "href" : "pages/html5/01_syllabus.php"
+            "href" : "lectures/01-what_is_recorded_sound/IASA_TC-04_sec_5.2_Reproduction_of_Historical_and_Obsolete_Mechanical_Formats._2009._pp._32-44.pdf"
         },
         {
             "title" : "AES Calibration Record. Coarse groove, lateral monophonic cut. 2007.pdf",
-            "href" : "https://www.coursera.org/learn/html/lecture/Ilm91/01-01-welcome-to-introduction-to-html5"
+            "href" : "lectures/01-what_is_recorded_sound/AES_Calibration_Record._Coarse_groove_lateral_monophonic_cut_2007.pdf"
         },
         {
             "title" : "Wikipedia articles",
             "href" : "lectures/01_html5/01_01-intro_to_html.pdf"
+        }
+    ],
+    "assignments" : [
+        {
+            "title": "Case Study: University of Illinois Campus Media Census",
+            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
         }
     ],
     "lti" : [
@@ -79,106 +85,56 @@
     "description": "We learn about standards and guidelines for producing archival master files.",
     "lectures": [
         {
-            "title" : "A brief history of standardization [in audio recording and digitization]",
+            "title" : "A brief history of standardization",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Overview of international audio standards bodies [including standards document copyrights]",
+            "title" : "International audio standards organizations",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Introduction to IASA TC-04 (2009)",
+            "title" : "Introduction to IASA TC-04: 2009",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
     "references" : [
         {
-            "title" : "Video: The Document Object Model [DOM]",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "title" : "IASA TC-04 sec 2 Key Digital Principles. 2009.",
+            "href" : "https://www.iasa-web.org/tc04/key-digital-principles"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: The Document Object Model [DOM]",
-            "href" : "lectures/02_html5/02_01-DOM.pdf"
+            "title" : "NISO Z3950 Primer. 2002. pp. 3-11",
+            "href" : "lectures/02-audio_standards_overview/NISO_Z3950_Primer._2002._pp._3-11.pdf"
         },
         {
-            "title" : "Document: Readings",
-            "href" : "pages/html5/08_w2readings.php"
+            "title" : "IASA Home",
+            "href" : "https://www.iasa-web.org"
         },
         {
-            "title" : "Video: HTML5 Tags and Syntax",
-            "href" : "https://www.coursera.org/learn/html/lecture/m1BQg/02-02-html5-tags-and-syntax"
+            "title" : "Wikipedia. List of technical standards organizations.",
+            "href" : "https://en.wikipedia.org/wiki/List_of_technical_standard_organisations"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: HTML5 Tags and Syntax",
-            "href" : "lectures/02_html5/02_02-html_tags_and_syntax.pdf"
+            "title" : "FADGI Glossary.",
+            "href" : "http://www.digitizationguidelines.gov/glossary.php?alpha=A"
         },
         {
-            "title" : "Document: Cheatsheets",
-            "href" : "pages/html5/09_cheatsheet.php"
+            "title" : "A/V Artifact Atlas AV Preservation Glossary.",
+            "href" : "https://bavc.github.io/avaa/preservation_glossary.html"
         },
         {
-            "title" : "Video: Semantic Tags",
-            "href" : "https://www.coursera.org/learn/html/lecture/riOKu/02-03-semantic-tags"
+            "title" : "CCAHA. Audiovisual Preservation Basics. 2009. Video.",
+            "href" : "lectures/02-audio_standards_overview/CCAHA._Audiovisual_Preservation_Basics._2009._Video.mp4"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Semantic Tags",
+            "title" : "Wikipedia articles",
             "href" : "lectures/02_html5/02_03-semantic_html_tags.pdf"
-        },
+        }
+    ],
+     "assignments" : [
         {
-            "title" : "Video: Template Page",
-            "href" : "https://www.coursera.org/learn/html/lecture/6YX4i/02-04-template-page"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Tempalate Page",
-            "href" : "lectures/02_html5/02_04-template_page.pdf"
-        },
-        {
-            "title" : "Video: Images",
-            "href" : "https://www.coursera.org/learn/html/lecture/NxaOr/02-05-images"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Images",
-            "href" : "lectures/02_html5/02_05-images.pdf"
-        },
-        {
-            "title" : "Document: Alternative Text",
-            "href" : "pages/html5/11_alternative.php"
-        },
-        {
-            "title" : "Video: Font Awesome Demo",
-            "href" : "https://www.coursera.org/learn/html/lecture/m4NI3/font-awesome-demo"
-        },
-        {
-            "title" : "Video: Hyperlinks",
-            "href" : "https://www.coursera.org/learn/html/lecture/7Wvrg/02-06-hyperlinks"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Hyperlinks",
-            "href" : "lectures/02_html5/02_06-hyperlinks.pdf"
-        },
-        {
-            "title" : "Video: Multimedia",
-            "href" : "https://www.coursera.org/learn/html/lecture/CIR2e/02-07-multimedia"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Multimedia",
-            "href" : "lectures/02_html5/02_07-multimedia.pdf"
-        },
-        {
-            "title" : "Video: Tables",
-            "href" : "https://www.coursera.org/learn/html/lecture/HtqUe/02-08-tables"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Tables",
-            "href" : "lectures/02_html5/02_08-tables.pdf"
-        },
-        {
-            "title" : "Video: Useful Tags",
-            "href" : "https://www.coursera.org/learn/html/lecture/blrRu/02-09-useful-tags"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Useful Tags",
-            "href" : "lectures/02_html5/02_09-useful_tags.pdf"
+            "title": " Case Study: Explore glossaries of terms",
+            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
         }
     ],
     "lti" : [
@@ -210,100 +166,34 @@
     ],
     "references" : [
         {
-            "title" : "Video: Accessibility",
-            "href" : "https://www.coursera.org/learn/html/lecture/d6Pha/03-01-accessibility"
+            "title" : "IASA Home.",
+            "href" : "https://www.iasa-web.org"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Accessibility",
-            "href" : "lectures/03_html5/03_01-accessible_web.pdf"
+            "title" : "IASA TC-03: The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation Strategy. 2017. sec. 6, 7, 8. PDF",
+            "href" : "lectures/03-audio_ethics/IASA_TC-03_ The_Safeguarding_of_the_Audiovisual_Heritage.pdf"
         },
         {
-            "title" : "Document: Does Your Browser Support Assessibility?",
-            "href" : "pages/html5/12_assessibility.php"
+            "title" : "IASA Special Publication No. 6: Ethical Principles for Sound and Audiovisual Archives. sec. 2.2.",
+            "href" : "https://www.iasa-web.org/ethical-principles"
         },
         {
-            "title" : "Video: Validating Your Site",
-            "href" : "https://www.coursera.org/learn/html/lecture/5HnFB/03-02-validating-your-site"
+            "title" : "Schuller, Dietrich. 1991. “The Ethics of Preservation, Restoration, and Re-Issues of Historical Sound Recordings.” Journal of the Audio Engineering Society 39 (12): 1014-16. ",
+            "href" : "https://www.aes.org/e-lib/browse.cfm?elib=5955"
         },
         {
-            "title" : "Video: Wave",
-            "href" : "https://www.coursera.org/learn/html/lecture/WqvSN/03-02a-wave"
+            "title" : "Edmondson, Ray. Audiovisual Archiving: Philosophy and Principles. 2016.",
+            "href" : "https://unesdoc.unesco.org/ark:/48223/pf0000243973"
         },
         {
-            "title" : "Video: Funkify",
+            "title" : "Wikipedia Articles",
             "href" : "https://www.coursera.org/learn/html/lecture/afqDD/03-02b-funkify"
-        },
+        }
+    ],
+     "assignments" : [
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Validating Your Site",
-            "href" : "lectures/03_html5/03_02-validating.pdf"
-        },
-        {
-            "title" : "Document: Putting Your Code Out on the Web",
-            "href" : "pages/html5/13_web.php"
-        },
-        {
-            "title" : "Video: Hosting Your Site",
-            "href" : "https://www.coursera.org/learn/html/lecture/rEN7t/03-03-hosting-your-site"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Hosting Your Site",
-            "href" : "lectures/03_html5/03_03-hosting.pdf"
-        },
-        {
-            "title" : "Video: cPanel",
-            "href" : "https://www.coursera.org/learn/html/lecture/Ct8Hy/03-04-cpanel"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: cPanel",
-            "href" : "lectures/03_html5/03_04-cPanel.pdf"
-        },
-        {
-            "title" : "Video: Creating a GitHub Pages Account",
-            "href" : "https://www.coursera.org/learn/html/lecture/COiCQ/3-04a-creating-a-github-pages-account"
-        },
-        {
-            "title" : "Video: Uploading to GitHub Pages Account",
-            "href" : "https://www.coursera.org/learn/html/lecture/4dOi4/3-04b-uploading-to-github-pages-account"
-        },
-        {
-            "title" : "Video: Using Secure File Transfer Protocol",
-            "href" : "https://www.coursera.org/learn/html/lecture/oJyXt/03-05-using-secure-file-transfer-protocol"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Using Secure File Transfer Protocol",
-            "href" : "lectures/03_html5/03_05-SFTP.pdf"
-        },
-        {
-            "title" : "Document: Final Project Description",
-            "href" : "pages/html5/14_project.php"
-        },
-        {
-            "title" : "Video: Final Project Demo",
-            "href" : "https://www.coursera.org/learn/html/lecture/iFxeJ/03-06-final-project-demo"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Final Project Demo",
-            "href" : "lectures/03_html5/03_06-final_project.pdf"
-        },
-        {
-            "title" : "Document: The Final Exam has changed",
-            "href" : "pages/html5/15_exam.php"
-        },
-        {
-            "title" : "Document: Congratulations!",
-            "href" : "pages/html5/16_congratulations.php"
-        },
-        {
-            "title" : "Video: Closing",
-            "href" : "https://www.coursera.org/learn/html/lecture/FlG0K/03-07-closing"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Closing",
-            "href" : "lectures/03_html5/03_07-closing.pdf"
-        },
-        {
-            "title" : "Document: Congratulations!",
-            "href" : "pages/html5/17_more.php"
+            "title": "Case Study: Apply IASA TC-03 in practice",
+            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
         }
     ],
     "lti" : [
@@ -330,102 +220,60 @@
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Magnetic recording media (2) – deterioration and environmental controls",
+            "title" : "Magnetic recording media (2) – deterioration and storage",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Assessing risk and value (MediaScore) – deciding where to start",
+            "title" : "Assessing risk and value",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "AV Preserve: Cost of Inaction Calculator",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
     "references" : [
         {
-            "title" : "Document: Syllabus",
-            "href" : "/pages/css3/01_syllabus.php"
+            "title" : "IASA TC-05. Handling and Storage of Audio and Video Carriers. 2014.",
+            "href" : "https://www.iasa-web.org/tc05/handling-storage-audio-video-carriers"
         },
         {
-            "title" : "Document: Resources",
-            "href" : "pages/css3/02_resources1.php"
+            "title" : "ISO 18923:2000 Imaging materials – Polyester-base magnetic tape – Storage practices. [permission required].",
+            "href" : "https://www.iso.org/standard/27619.html"
         },
         {
-            "title" : "Document: Help us learn more about you!",
-            "href" : "pages/css3/03_you.php"
+            "title" : "Adelstein, Peter Z. IPI Media Storage Quick Reference, 2nd edition. Rochester: Image Permanence Institute, 2009.",
+            "href" : "https://www.imagepermanenceinstitute.org/webfm_send/301"
         },
         {
-            "title" : "Video: Introduction to CSS3",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/zOHP0/01-01-course-welcome"
+            "title" : "Van Bogart, John. Magnetic Tape Storage and Handling. CLIR Report 54, June 1995. PDF",
+            "href" : "lectures/04-audio_media_assessment/Van_Bogart.pdf"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to CSS3",
-            "href" : "lectures/01_css3/01_01-intro_to_css3.pdf"
+            "title" : "Reilly, James M, et al. New Tools for Preservation: Assessing Long-Term Effects on Library and Archives Collections. CLIR Report 59, November 1995. PDF",
+            "href" : "lectures/04-audio_media_assessment/Reilly.pdf"
         },
         {
-            "title" : "Document: Building Your First Web Page by Shay Howe",
-            "href" : "pages/css3/04_howe.php"
+            "title" : "Image Permanence Institute.",
+            "href" : "https://www.imagepermanenceinstitute.org/"
         },
         {
-            "title" : "Video: Cascading Style Sheets",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/pf413/01-02-cascading-style-sheets"
+            "title" : "IU MediaScore (AV Preserve) Media Preservation Prioritization Software User Guide. 2015. PDF",
+            "href" : "lectures/04-audio_media_assessment/MediaScore_User_Guide.pdf"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Cascading Style Sheets",
-            "href" : "lectures/01_css3/01_02-cascading_style_sheets.pdf"
+            "title" : "AV Preserve Cost of Inaction website",
+            "href" : "https://coi.weareavp.com/"
         },
         {
-            "title" : "Video: Colors",
+            "title" : "Wikipedia articles",
             "href" : "https://www.coursera.org/learn/introcss/lecture/BssvJ/01-03-colors"
-        },
+        }
+    ],
+     "assignments" : [
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Colors",
-            "href" : "lectures/01_css3/01_03-colors.pdf"
-        },
-        {
-            "title" : "Video: Styling Your Text",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/kxPBK/01-04-styling-your-text"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Styling Your Text",
-            "href" : "lectures/01_css3/01_04-styling_your_text.pdf"
-        },
-        {
-            "title" : "Document: Early Coding",
-            "href" : "pages/css3/05_early.php"
-        },
-        {
-            "title" : "Video: Code Together",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/9Ps4p/01-05-code-together"
-        },
-        {
-            "title" : "Video: Display and Visibility Part 1",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/2XGcn/01-06a-display-and-visibility-part-1"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Display and Visibility",
-            "href" : "lectures/01_css3/01_06-display_and_visibility.pdf"
-        },
-        {
-            "title" : "Video: Display and Visibility Part 2",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/vXFBt/01-06b-display-and-visibility-part-2"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Display and Visibility",
-            "href" : "lectures/01_css3/01_06-display_and_visibility.pdf"
-        },
-        {
-            "title" : "Document: Code Placement",
-            "href" : "pages/css3/06_placement.php"
-        },
-        {
-            "title" : "Document: Homework One Description",
-            "href" : "pages/css3/07_hw1.php"
-        },
-        {
-            "title" : "Video: OPTIONAL: Homework Description",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/ta7aA/01-07-optional-homework-description"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Homework One",
-            "href" : "lectures/01_css3/01_07-homework_one.pdf"
+            "title": "Case Study: Indiana University’s MediaScore",
+            "href" : "https://www.weareavp.com/wp-content/uploads/2015/03/IU_mscore_mrivers_guide.pdf"
         }
     ],
     "lti" : [
@@ -458,97 +306,51 @@
     ],
     "references" : [
         {
-            "title" : "Document: Resources",
-            "href" : "pages/css3/08_resources2.php"
+            "title" : "IASA TC-04, sec. 5.3 Reproduction of Microgroove LP Records. 2019. pp. 8-10. PDF",
+            "href" : "lectures/05-audio_playback/IASA_TC-04_sec_5.3.pdf"
         },
         {
-            "title" : "Video: Box Model",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/VDg21/02-01-box-model"
+            "title" : "IASA TC-04, sec. 5.4 Reproduction of Analogue Magnetic Tapes. 2019. pp. 11-19. PDF",
+            "href" : "lectures/05-audio_playback/IASA_TC-04_sec_5.4.pdf"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Box Model",
-            "href" : "lectures/02_css3/02_01-box_model.pdf"
+            "title" : "George Boston, et al. Guide to the Basic Technical Equipment Required by Audio, Film and Television Archives (audio). FIAF 1990. PDF",
+            "href" : "lectures/05-audio_playback/George_Boston.pdf"
         },
         {
-            "title" : "Document: Coding Together",
-            "href" : "pages/css3/09_together.php"
+            "title" : "Ashley Blewer, et al. Minimum Viable Station Documentation.",
+            "href" : "http://bit.ly/mindigit"
         },
         {
-            "title" : "Video: Code Together",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/YqFkK/02-02-code-together"
+            "title" : "How to Transfer Vinyl to Computer Using Audacity. [Demonic Sweaters]. YouTube.[17:16 min]",
+            "href" : "https://www.youtube.com/watch?v=v02HbKfOafI"
         },
         {
-            "title" : "Video: Styling Links and Lists",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/VVJf3/02-03-styling-links-and-lists"
+            "title" : "ARSC Audiotape Tutorial: Common Track Formats for Quarter-Inch Magnetic Tape. [ARSC]. YouTube. [11:26 min]",
+            "href" : "https://www.youtube.com/watch?v=zxEgS8V8-ho"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Styling Links and Lists",
-            "href" : "lectures/02_css3/02_03-styling_links_and_lists.pdf"
+            "title" : "ARSC Audiotape Tutorial: Types of Magnetic Tape and Associated Problems. [ARSC]. YouTube. [19:28 min]",
+            "href" : "https://www.youtube.com/watch?v=qibFG2mo3Qk"
         },
         {
-            "title" : "Video: Advanced Selectors",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/dXukm/02-04-advanced-selectors"
+            "title" : "TAPE. Audio Tape Digitization Workflow.",
+            "href" : "https://www.musiikkiarkisto.fi/audio/"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Advanced Selectors",
+            "title" : "Wikipedia Articles",
             "href" : "lectures/02_css3/02_04-advanced_selectors.pdf"
-        },
-        {
-            "title" : "Document: Supplemental Reading on Complex Selectors",
-            "href" : "pages/css3/10_selectors.php"
-        },
-        {
-            "title" : "Document: Shorthand Rules",
-            "href" : "pages/css3/11_shorthand.php"
-        },
-        {
-            "title" : "Video: Browser Capabilities",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/rlS0y/02-05-browser-capabilites"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Browser Capabilities",
-            "href" : "lectures/02_css3/02_05-browser_capabilities.pdf"
-        },
-        {
-            "title" : "Document: Browsers",
-            "href" : "pages/css3/12_browsers.php"
-        },
-        {
-            "title" : "Document: Code Together",
-            "href" : "pages/css3/13_together2.php"
-        },
-        {
-            "title" : "Video: Code Together",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/2GdcH/02-06-code-together"
-        },
-        {
-            "title" : "Document: Background Images and Opacity",
-            "href" : "pages/css3/14_background.php"
-        },
-        {
-            "title" : "Video: Designing for Accessibility",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/sB0Wx/02-07-designing-for-accessibility"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Designing for Accessibility",
-            "href" : "lectures/02_css3/02_07-designing_for_accessibility.pdf"
-        },
-        {
-            "title" : "Document: Optional - The importance of headings",
-            "href" : "pages/css3/15_headings.php"
-        },
-        {
-            "title" : "Video: OPTIONAL: Homework Description",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/VQgU9/02-08-optional-homework-description"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Homework Two",
-            "href" : "lectures/02_css3/02_08-homework_two.pdf"
-        },
-        {
-            "title" : "Document: Homework Two Description",
-            "href" : "pages/css3/16_hw2.php"
         }
+    ],
+     "assignments" : [
+        {
+            "title": "Case Study: A Race Against Time (CCAHA). ",
+            "href" : "https://www.youtube.com/playlist?list=PLUwal4tAEZjSCODaEx53v7i1T90in-4az"
+        },
+         {
+             "title" : "View Episode 4: Audio Preservation [20:32 min].",
+             "href" : "https://www.youtube.com/watch?v=WGfJnSHByNc&t=61s"
+         }
     ],
     "lti" : [
         {
@@ -574,66 +376,40 @@
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "A/D converter specifications",
+            "title" : "Analog to digital converter specifications",
+            "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        },
+        {
+            "title" : "FADGI Guidelines for A/D converters",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
     "references" : [
         {
-            "title" : "Document: Resources",
-            "href" : "pages/css3/17_resources3.php"
+            "title" : "IASA TC-04 sec. 2.4 Analog to Digital Converters (A/D). 2009. pp. 1-2. PDF",
+            "href" : "lectures/06-analog_to_digital_converters/IASA_TC-04_sec_2.4.pdf"
         },
         {
-            "title" : "Video: Pseudo Classes and Elements",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/jE7LQ/03-01-pseudo-classes-and-elements"
+            "title" : "AES17-1998 (r2004, 2015) AES standard method for digital audio engineering -- Measurement of digital audio equipment. [permission required]. ",
+            "href" : "https://www.aes.org/publications/standards/search.cfm?docID=21"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Pseudo Classes and Elements",
-            "href" : "lectures/03_css3/03_01-pseudo_classes_and_elements.pdf"
+            "title" : "FADGI. High-level performance guideline, explanatory reports, and other resources.2016. PDF",
+            "href" : "lectures/06-analog_to_digital_converters/FADGI_High-level_performance_guideline.pdf"
         },
         {
-            "title" : "Video: Transitions",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/JmJhE/03-02-transitions"
+            "title" : "FADGI. Guideline for low-cost testing and explanatory reports. 2017. PDF",
+            "href" : "lectures/06-analog_to_digital_converters/FADGI_Guideline_for_low-cost_testing.pdf"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Transitions",
+            "title" : "Wikipedia articles",
             "href" : "lectures/03_css3/03_02-transitions.pdf"
-        },
+        }
+    ],
+     "assignments" : [
         {
-            "title" : "Video: Transforms",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/9rzOu/03-03-transforms"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Transforms",
-            "href" : "lectures/03_css3/03_03-transforms.pdf"
-        },
-        {
-            "title" : "Document: OPTIONAL READINGS - Transitions, Transforms, and Animation",
-            "href" : "pages/css3/18_readings.php"
-        },
-        {
-            "title" : "Video: Code Together - Transitions",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/iJzUX/03-04-code-together-transitions"
-        },
-        {
-            "title" : "Document: Positioning",
-            "href" : "pages/css3/19_positioning.php"
-        },
-        {
-            "title" : "Video: Positioning",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/f1qY2/03-05-positioning"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Positioning",
-            "href" : "lectures/03_css3/03_05-positioning.pdf"
-        },
-        {
-            "title" : "Document: Why not a Peer Assessment this week?",
-            "href" : "pages/css3/20_peer.php"
-        },
-        {
-            "title" : "Document: Some Fun Links",
-            "href" : "pages/css3/21_links.php"
+            "title": "Case Study: ADCTest from AVPreserve.",
+            "href" : "https://www.weareavp.com/products/adctest/"
         }
     ],
     "lti" : [
@@ -651,6 +427,10 @@
     "description": "We learn about contracting with third-party vendors for digitization services.",
     "lectures": [
         {
+            "title" : "DIY versus outsourcing",
+            "href" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
+        }
+        {
             "title" : "Partnerships and project planning",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
@@ -661,68 +441,38 @@
     ],
     "references" : [
         {
-            "title" : "Document: Resources",
-            "href" : "pages/css3/22_resources4.php"
+            "title" : "IASA TC-04 sec 9.1.5 Outsourcing. 2009. p.140. PDF",
+            "href" : "lectures/07-outsourcing_audio_services/IASA_TC-04_sec_9.1.5_Outsourcing_2009_p.140.pdf"
         },
         {
-            "title" : "Video: Styling Tables",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/OGCjp/04-01-styling-tables"
+            "title" : "ARSC Audio Preservation & Restoration Directory.",
+            "href" : "http://www.arsc-audio.org/audiopreservation.html"
         },
         {
-            "title" : "Video: Creating Navigation",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/y5ODR/04-02-creating-navigation-menus"
+            "title" : "George Blood Audio.",
+            "href" : "https://www.georgeblood.com/"
         },
         {
-            "title" : "Video: Accessible Navigation",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/WWU0K/04-03-accessible-navigation"
+            "title" : "MediaPreserve.",
+            "href" : "https://ptlp.com/en/mediapreserve/overview/about-us/"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Accessible Navigation",
-            "href" : "lectures/04_css3/04_03-accessible_navigation.pdf"
+            "title" : "1394 Trade Association. Audio and Music Data Transmission Protocol 2.3. 2012. PDF",
+            "href" : "lectures/07-outsourcing_audio_services/1394_Trade_Association_Audio_and_Music_Data_Transmission_Protocol_2.3_2012.pdf"
         },
         {
-            "title" : "Document: OPTIONAL: A Change to the Accessibility of Headings",
-            "href" : "pages/css3/23_change.php"
+            "title" : "1394 Trade Association. Enhancement to Audio and Music Data Transmission Protocol 1.0. 2000. PDF",
+            "href" : "lectures/07-outsourcing_audio_services/1394_Trade_Association_Enhancement_to_Audio_and_Music_Data_Transmission_Protocol_1.0_2000.pdf"
         },
         {
-            "title" : "Video: Creating Navigation Menus 2",
+            "title" : "Wikipedia Articles",
             "href" : "https://www.coursera.org/learn/introcss/lecture/sVTwE/04-04-creating-navigation-menus-2"
-        },
+        }
+    ],
+     "assignments" : [
         {
-            "title" : "Video: Creating Navigaion Menus 3",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/DCeKu/04-05-creating-navigation-menus-3"
-        },
-        {
-            "title" : "Document: Final Project Description",
-            "href" : "pages/css3/24_project.php"
-        },
-        {
-            "title" : "Video: OPTIONAL: Homework Description",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/SyQ0X/04-06-optional-homework-description"
-        },
-        {
-            "title" : "Video: Closing",
-            "href" : "https://www.coursera.org/learn/introcss/lecture/ivsNj/04-07-conclusion"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Closing",
-            "href" : "lectures/04_css3/04_07-closing.pdf"
-        },
-        {
-            "title" : "Document: Coursera Options",
-            "href" : "pages/css3/25_coursera.php"
-        },
-        {
-            "title" : "Document: CodeAcademy - other badge tutorials",
-            "href" : "pages/css3/26_codeacademy.php"
-        },
-        {
-            "title" : "Document: Meetups",
-            "href" : "pages/css3/27_meetups.php"
-        },
-        {
-            "title" : "Document: Post-course Survey",
-            "href" : "pages/css3/28_survey.php"
+            "title": "Case Study: AVPreserve Guide to Developing a Request for Proposal for Audio Digitization.",
+            "href" : "https://www.weareavp.com/guide-to-developing-a-request-for-proposal-for-the-digitization-of-audio/"
         }
     ],
     "lti" : [
@@ -838,6 +588,12 @@
             "href" : "pages/javascript/10_debug.php"
         }
     ],
+     "assignments" : [
+        {
+            "title": "Case Study: University of Illinois Campus Media Census",
+            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
+        }
+    ],
     "lti" : [
         {
         "title" : "Quiz: Week 1",
@@ -933,6 +689,12 @@
         {
             "title" : "Homework Time!!",
             "href" : "pages/javascript/16_homework.php"
+        }
+    ],
+     "assignments" : [
+        {
+            "title": "Case Study: University of Illinois Campus Media Census",
+            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
         }
     ],
     "lti" : [
@@ -1033,6 +795,12 @@
             "href" : "lectures/03_js/03_07-common_errors.pdf"
         }
     ],
+     "assignments" : [
+        {
+            "title": "Case Study: University of Illinois Campus Media Census",
+            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
+        }
+    ],
     "lti" : [
         {
         "title" : "Quiz: JavaScript Review",
@@ -1116,6 +884,12 @@
         {
             "title" : "Document: Post-course Survey",
             "href" : "pages/javascript/27_survey.php"
+        }
+    ],
+     "assignments" : [
+        {
+            "title": "Case Study: University of Illinois Campus Media Census",
+            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
         }
     ],
     "lti" : [
@@ -1223,6 +997,12 @@
             "href" : "pages/responsivedesign/09_definitions.php"
         }
     ],
+     "assignments" : [
+        {
+            "title": "Case Study: University of Illinois Campus Media Census",
+            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
+        }
+    ],
     "lti" : [
         {
         "title" : "Quiz: Basic Concepts in Responsive Design Approaches",
@@ -1294,6 +1074,12 @@
         {
             "title" : "Document: OPTIONAL - Good Examples of Responsive Design",
             "href" : "pages/responsivedesign/10_examples.php"
+        }
+    ],
+     "assignments" : [
+        {
+            "title": "Case Study: University of Illinois Campus Media Census",
+            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
         }
     ],
     "lti" : [
@@ -1392,6 +1178,12 @@
         {
             "title" : "Document: OPTIONAL - Demystifying Bootstrap",
             "href" : "pages/responsivedesign/11_demystifying.php"
+        }
+    ],
+     "assignments" : [
+        {
+            "title": "Case Study: University of Illinois Campus Media Census",
+            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
         }
     ],
     "lti" : [
