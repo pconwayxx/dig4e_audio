@@ -684,80 +684,56 @@
     "description": "We learn about the Broadcast Wave File format for archival quality digitized sound files.",
     "lectures": [
         {
-            "title" : "Sustainable file formats for audio [in audio recording and digitization]",
+            "title" : "Sustainable file formats for audio",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "The BWF format (and alternative)",
+            "title" : "The Broadcast Wave Format",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
     "references" : [
         {
-            "title" : "Document: Link to All of the Code for Week 4",
-            "href" : "pages/javascript/21_w4code.php"
+            "title" : "IASA TC-04 sec. 2.8 File Formats.2009. pp.1-3. PDF",
+            "href" : "lectures/11-sustainable_digital_formats_for_audio/IASA TC-04 sec. 2.8 File Formats.2009. pp.1-3. PDF.pdf"
         },
         {
-            "title" : "Document: Introduction to Forms",
-            "href" : "pages/javascript/22_forms.php"
+            "title" : "EBU Tech 3285. BWF specification. 2011. PDF",
+            "href" : "lectures/11-sustainable_digital_formats_for_audio/EBU Tech 3285. BWF specification. 2011. PDF.pdf"
         },
         {
-            "title" : "Video: Simple Forms",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/2VjBX/simple-forms"
+            "title" : "Recommendation ITU-R BS.2088. Long-form file format for the international exchange of audio programme materials with metadata. 2019. PDF",
+            "href" : "lectures/11-sustainable_digital_formats_for_audio/Recommendation ITU-R BS.2088. Long-form file format for the international exchange of audio programme materials with metadata. 2019. PDF.pdf"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Simple Forms",
-            "href" : "lectures/04_js/04_01-simple_forms.pdf"
+            "title" : "EBU Technical Recommendation R99-1999 ‘Unique’ Source Identifier (USID) for use in the Originator Reference field of the Broadcast Wave Format. PDF",
+            "href" : "lectures/11-sustainable_digital_formats_for_audio/EBU Technical Recommendation R99-1999 ‘Unique’ Source Identifier (USID) for use in the OriginatorReference field of the Broadcast Wave Format. PDF.pdf"
         },
         {
-            "title" : "Video: Simple Validation",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/LhVoE/simple-validation"
+            "title" : "AES31-2-2019 AES standard on digital audio - File format for transferring digital audio data between systems of different type and manufacture. [permission required], sec. 0 to sec. 4, Annex A, Annex B. PDF",
+            "href" : "lectures/11-sustainable_digital_formats_for_audio/AES31-2-2019 AES standard on digital audio - File format for transferring digital audio data between systems of different type and manufacture. [permission required], sec. 0 to sec. 4, Annex A, Annex B. PDF.pdf"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Simple Validation",
-            "href" : "lectures/04_js/04_02-simple_validation.pdf"
+            "title" : "FADGI Guidelines: Embedded Metadata in Broadcast WAVE Files.",
+            "href" : "http://www.digitizationguidelines.gov/guidelines/digitize-embedding.html"
         },
         {
-            "title" : "Document: Cool Stuff - Friend of Foe?",
-            "href" : "pages/javascript/23_cool.php"
+            "title" : "Library of Congress. Sustainability of Digital Formats",
+            "href" : "https://www.loc.gov/preservation/digital/formats/"
         },
         {
-            "title" : "Video: Comparing Two Inputs",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/i4227/comparing-two-inputs"
+            "title" : "Library of Congress. Sustainability of Digital Formats. WAVE Audio File Format.",
+            "href" : "http://www.loc.gov/preservation/digital/formats/fdd/fdd000001.shtml"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Comparing Two Inputs",
+            "title" : "Wikipedia articles",
             "href" : "lectures/04_js/04_03-comparing_two_inputs.pdf"
-        },
-        {
-            "title" : "Video: Checkboxes and Radio Buttons",
-            "href" : "https://www.coursera.org/learn/javascript/lecture/KgbIm/checkboxes-and-radio-buttons"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Checkboxes and Radio Buttons",
-            "href" : "lectures/04_js/04_04-checkboxes_and_radio_buttons.pdf"
-        },
-        {
-            "title" : "Document: Using Forms on Your Site",
-            "href" : "pages/javascript/24_site.php"
-        },
-        {
-            "title" : "Document: More Code Examples",
-            "href" : "pages/javascript/25_more.php"
-        },
-        {
-            "title" : "Document: Introduction to JQuery",
-            "href" : "pages/javascript/26_jquery.php"
-        },
-        {
-            "title" : "Document: Post-course Survey",
-            "href" : "pages/javascript/27_survey.php"
         }
     ],
      "assignments" : [
         {
-            "title": "Case Study: University of Illinois Campus Media Census",
-            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
+            "title": "Exercise: Estimating audio file sizes ",
+            "href" : ""
         }
     ],
     "lti" : [
@@ -785,90 +761,34 @@
     ],
     "references" : [
         {
-            "title" : "Document: Syllabus",
-            "href" : "pages/responsivedesign/01_syllabus.php"
+            "title" : "IASA TC-04 sec. 3.1 Introduction. 2009. pp. 12-14. PDF",
+            "href" : "lectures/12-embedded_metadata_for_audio/IASA TC-04 sec. 3.1 Introduction. 2009. pp. 12-14. PDF.pdf"
         },
         {
-            "title" : "Document: Resources",
-            "href" : "pages/responsivedesign/02_resources.php"
+            "title" : "FADGI Guidelines: Embedded Metadata in Broadcast WAVE Files.",
+            "href" : "http://www.digitizationguidelines.gov/guidelines/digitize-embedding.html"
         },
         {
-            "title" : "Document: Frequently Asked Questions (FAQ)",
-            "href" : "pages/responsivedesign/03_faq"
+            "title" : "EBU Recommendation R98-1999 Format for the <CodingHistory> field in Broadcast Wave Format files. PDF",
+            "href" : "lectures/12-embedded_metadata_for_audio/EBU Recommendation R98-1999 Format for the _CodingHistory_ field in Broadcast Wave Format files. PDF.pdf"
         },
         {
-            "title" : "Video: Introduction to Responsive Design",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/txDkK/introduction-to-responsive-design"
+            "title" : "EBU Recommendation R99-1999 ‘Unique’ Source Identifier (USID) for use in the <OriginatorReference> Field of the Broadcast Wave Format. PDF",
+            "href" : "lectures/12-embedded_metadata_for_audio/EBU Recommendation R99-1999 ‘Unique’ Source Identifier (USID) for use in the _OriginatorReference_ Field of the Broadcast Wave Format. PDF.pdf"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to Responsive Design",
+            "title" : "Wikipedia Articles",
             "href" : "lectures/01_rd/01_01-intro_to_rd.pdf"
-        },
-        {
-            "title" : "Document: Help us learn more about you!",
-            "href" : "pages/responsivedesign/04_you.php"
-        },
-        {
-            "title" : "Video: What is Responsive Design?",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/ps9ld/what-is-responsive-design"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: What is Responsive Design",
-            "href" : "lectures/01_rd/01_02-what_is_rd.pdf"
-        },
-        {
-            "title" : "Video: Testing Existing Sites",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/M1D8S/testing-existing-sites"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Testing Existing Sites",
-            "href" : "lectures/01_rd/01_03-testing_sites.pdf"
-        },
-        {
-            "title" : "Video: Benefits of Responsive Design",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/4DDTg/benefits-of-responsive-design"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Benefits of Responsive Design",
-            "href" : "lectures/01_rd/01_04-benefits_of_rd.pdf"
-        },
-        {
-            "title" : "Document: Fluid Measurements Background Readings",
-            "href" : "pages/responsivedesign/05_readings.php"
-        },
-        {
-            "title" : "Video: Fluid Measurements",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/stZ5k/fluid-measurements"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Fluid Measurements",
-            "href" : "lectures/01_rd/01_05-fluid_measurements.pdf"
-        },
-        {
-            "title" : "Video: Code With Me - Fluid Measurements",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/6MUTk/code-with-me-fluid-measurements"
-        },
-        {
-            "title" : "Document: Notice for Auditing Learners - Assignment Submission",
-            "href" : "pages/responsivedesign/06_auditing.php"
-        },
-        {
-            "title" : "Document: Pixel to Em Conversion Tool",
-            "href" : "pages/responsivedesign/07_pixel.php"
-        },
-        {
-            "title" : "Document: Dynamically Change the Size of Font with Sliders",
-            "href" : "pages/responsivedesign/08_font.php"
-        },
-        {
-            "title" : "Document: OPTIONAL - CSS Definitions of Relative and Absolute",
-            "href" : "pages/responsivedesign/09_definitions.php"
         }
     ],
      "assignments" : [
         {
-            "title": "Case Study: University of Illinois Campus Media Census",
-            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
+            "title": "Exercise: Using BWF",
+            "href" : ""
+        },
+        {
+            "title":"MetaEdit FADGI Guidelines: BWF MetaEdit Help.",
+            "href":"http://www.digitizationguidelines.gov/audio-visual/documents/help_home.html"
         }
     ],
     "lti" : [
@@ -900,54 +820,38 @@
     ],
     "references" : [
         {
-            "title" : "Video: Media Queries",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/b2Gan/media-queries"
+            "title" : "IASA TC-04 sec 6 Preservation Target Formats and Systems. 2009. pp. 90-117. PDF",
+            "href" : "lectures/13-audio_distribution_formats/IASA TC-04 sec 6 Preservation Target Formats and Systems. 2009. pp. 90-117. PDF.pdf"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Media Queries",
-            "href" : "lectures/02_rd/02_01-media_queries.pdf"
+            "title" : "ISO/IEC 11172-3 Information Technology - Coding Of Moving Pictures And Associated Audio For Digital Storage Media - Part 3: Audio (MPEG-1 Part 3). 1993. [permission required]",
+            "href" : "https://webstore.ansi.org/Standards/ISO/ISOIEC111721993-1039670"
         },
         {
-            "title" : "Video: Code With Me - Fluid Measurements and Media Queries",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/dQndg/code-with-me-fluid-measurements-and-media-queries"
+            "title" : "Sustainability of Digital Formats: Planning for Library of Congress Collections. MP3 Format.",
+            "href" : "https://www.loc.gov/preservation/digital/formats/fdd/fdd000105.shtml"
         },
         {
-            "title" : "Video: Wire Frames",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/CuYAt/wire-frames"
+            "title" : "Sterne, Jonathan. The mp3 as a cultural artifact. New Media & Society 8 (5) 2006: 825-842. PDF",
+            "href" : "lectures/13-audio_distribution_formats/Sterne, Jonathan. The mp3 as a cultural artifact. New Media _ Society 8 (5) 2006_ 825-842. PDF.pdf"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Wire Frames",
-            "href" : "lectures/02_rd/02_03-wireframes.pdf"
+            "title" : "Netflix Specifications",
+            "href" : "https://partnerhelp.netflixstudios.com/hc/en-us/categories/202282037-SPECIFICATIONS-GUIDES"
         },
         {
-            "title" : "Video: Breakpoints",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/89Aoz/breakpoints"
+            "title" : "YouTube Specifications",
+            "href" : "https://support.google.com/youtube/answer/4603579?hl=en"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Breakpoints",
+            "title" : "Wikipedia articles.",
             "href" : "lectures/02_rd/02_04-breakpoints.pdf"
-        },
-        {
-            "title" : "Video: Media Queries Part 2",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/TK4CK/media-queries-part-two"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Media Queries Part 2",
-            "href" : "lectures/02_rd/02_05-media_queries_p2.pdf"
-        },
-        {
-            "title" : "Video: Code With Me - Responsive Navigation",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/iHbe9/code-with-me-responsive-navigation"
-        },
-        {
-            "title" : "Document: OPTIONAL - Good Examples of Responsive Design",
-            "href" : "pages/responsivedesign/10_examples.php"
         }
     ],
      "assignments" : [
         {
-            "title": "Case Study: University of Illinois Campus Media Census",
-            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
+            "title": "Exercise: Using the VLC media player.",
+            "href" : "https://www.videolan.org/index.html"
         }
     ],
     "lti" : [
@@ -978,80 +882,36 @@
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Debates over the compression of audio files for long term preservation – guest",
+            "title" : "Debates over the compression of audio files for long term preservation",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Optical technologies and the digitization of grooved media (IRENE) – guest",
+            "title" : "IRENE: Optical technologies and the digitization of grooved media",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         },
         {
-            "title" : "Copyright and intellectual property (wading into the minefield + sec. 108 permissions) – guest",
+            "title" : "Dealing with copyright issues",
             "youtube" : "https://www.youtube.com/watch?v=rVN1B-tUpgs"
         }
     ],
     "references" : [
         {
-            "title" : "Video: Frameworks",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/9Osia/frameworks"
+            "title" : "National Library of Australia. Guidelines for the Preservation of Digital Heritage. 2003. PDF",
+            "href" : "lectures/14-future_of_audio_digitization/National Library of Australia. Guidelines for the Preservation of Digital Heritage. 2003. PDF.pdf"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Frameworks",
-            "href" : "lectures/03_rd/03_01-frameworks.pdf"
+            "title" : "Project IRENE.",
+            "href" : "https://www.loc.gov/preservation/outreach/tops/irene/index.html"
         },
         {
-            "title" : "Video: Introduction to Twitter Bootstrap 3",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/y9itO/introduction-to-twitter-bootstrap-3"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to Twitter Bootstrap 3",
-            "href" : "lectures/03_rd/03_02-intro_to_bootstrap_3.pdf"
-        },
-        {
-            "title" : "Video: Bootstrap Breakpoints",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/OuZp6/bootstrap-breakpoints"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Bootstrap Breakpoints",
-            "href" : "lectures/03_rd/03_03-bootstrap_breakpoints.pdf"
-        },
-        {
-            "title" : "Video: Getting Started with Twitter Bootstrap",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/wZGGp/getting-started-with-twitter-bootstrap"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Getting Started with Twitter Bootstrap",
-            "href" : "lectures/03_rd/03_04-getting_started_with_bootstrap_3.pdf"
-        },
-        {
-            "title" : "Video: Bootstrap 3 Grid System",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/yHMDd/bootstrap-grid-system"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Bootstrap 3 Grid System",
-            "href" : "lectures/03_rd/03_05-bootstrap_3_grid_system.pdf"
-        },
-        {
-            "title" : "Video: Code With Me - Grid Example",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/fd50Q/code-with-me-grid-example"
-        },
-        {
-            "title" : "Video: Bootstrap Navigation",
-            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/opt7D/bootstrap-navigation"
-        },
-        {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Bootstrap Navigation",
-            "href" : "lectures/03_rd/03_07-bootstrap_navigation.pdf"
-        },
-        {
-            "title" : "Document: OPTIONAL - Demystifying Bootstrap",
-            "href" : "pages/responsivedesign/11_demystifying.php"
+            "title" : "HiPSTAS.",
+            "href" : "https://github.com/hipstas"
         }
     ],
      "assignments" : [
         {
-            "title": "Case Study: University of Illinois Campus Media Census",
-            "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
+            "title": "Review: What should you know about audio digitization?",
+            "href" : ""
         }
     ],
     "lti" : [
