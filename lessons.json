@@ -30,7 +30,7 @@
 {
     "title": "What is Recorded Sound?",
     "anchor": "what-is-recorded-sound",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/01.png",
     "description": "We learn about how analog media record the sensory perception of sound.",
     "lectures": [
         {
@@ -81,7 +81,7 @@
 {
     "title": "Audio Standards Overview",
     "anchor": "audio-standards-overview",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/02.png",
     "description": "We learn about standards and guidelines for producing archival master files.",
     "lectures": [
         {
@@ -148,7 +148,7 @@
 {
     "title": "Audio Ethics",
     "anchor": "audio-ethics",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/03.png",
     "description": "We learn about the ethics producing archival quality digital files of audio resources.",
    "lectures": [
         {
@@ -212,7 +212,7 @@
 {
     "title": "Audio Media Assessment",
     "anchor": "audio-media-assessment",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/04.png",
     "description": "We learn about assessing the risk and value of analog audio media and establishing priorities.",
    "lectures": [
         {
@@ -292,7 +292,7 @@
 {
     "title": "Audio Playback",
     "anchor": "audio-playback",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/05.png",
     "description": "We learn about the importance of good playback equipment for digitizing analog audio resources.",
     "lectures": [
         {
@@ -368,7 +368,7 @@
 {
     "title": "Analog to Digital Converters",
     "anchor": "analog-to-digital-converters",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/06.png",
     "description": "We learn about the characteristics of analog to digital converters.",
    "lectures": [
         {
@@ -423,7 +423,7 @@
 {
     "title": "Outsourcing Audio Services",
     "anchor": "outsourcing-audio-services",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/07.png",
     "description": "We learn about contracting with third-party vendors for digitization services.",
     "lectures": [
         {
@@ -486,7 +486,7 @@
 {
     "title": "Audio Digitization Standards",
     "anchor": "audio-digitization-standards",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/08.png",
     "description": "We learn about the core criteria for digitizing an analog signal to archival standards.",
     "lectures": [
         {
@@ -541,7 +541,7 @@
 {
     "title": "Digitizing Analog Materials",
     "anchor": "digitizing-analog-materials",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/09.png",
     "description": "We learn about extracting the audio signal from magnetic tapes and convert to digital.",
     "lectures": [
         {
@@ -605,7 +605,7 @@
 {
     "title": "Metadata Standards for Audio",
     "anchor": "metadata-standards-for-audio",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/10.png",
     "description": "We learn about the varieties of technical metadata for audio files.",
     "lectures": [
         {
@@ -680,7 +680,7 @@
 {
     "title": "Sustainable Digital Formats for Audio",
     "anchor": "sustainable-digital-formats-for-audio",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/11.png",
     "description": "We learn about the Broadcast Wave File format for archival quality digitized sound files.",
     "lectures": [
         {
@@ -747,7 +747,7 @@
 {
     "title": "Embedded Metadata for Audio",
     "anchor": "embedded-metadata-for-audio",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/12.png",
     "description": "We learn about documenting technical features in audio file headers.",
     "lectures": [
         {
@@ -802,7 +802,7 @@
 {
     "title": "Audio Distribution Formats",
     "anchor": "audio-distribution-formats",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/13.png",
     "description": "We learn about formats for distributing digitized audio files in compressed formats.",
     "lectures": [
         {
@@ -870,7 +870,7 @@
 {
     "title": "Future of Audio Digitization",
     "anchor": "future-of-audio-digitization",
-    "icon" : "fa-clone",
+    "icon" : "{apphome}/css/Icons/Audio_Icons/14.png",
     "description": "We consider the overall risk to audio heritage and technical trends that address challenges at scale.",
    "lectures": [
         {
