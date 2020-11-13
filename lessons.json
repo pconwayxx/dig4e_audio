@@ -30,7 +30,7 @@
 {
     "title": "What is Recorded Sound?",
     "anchor": "what-is-recorded-sound",
-    "icon" : "{apphome}/css/Icons/Audio_Icons/01.png",
+    "icon" : "{apphome}/Icons/Audio_Icons/01.png",
     "description": "We learn about how analog media record the sensory perception of sound.",
     "lectures": [
         {
