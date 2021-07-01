@@ -4,6 +4,7 @@ $R = $CFG->apphome . '/';
 $T = $CFG->wwwroot . '/';
 $adminmenu = isset($_COOKIE['adminmenu']) && $_COOKIE['adminmenu'] == "true";
 $set = new \Tsugi\UI\MenuSet();
+$set->setHome('Dig4E', 'https://www.dig4e.com');
 $set->setHome($CFG->servicename, $CFG->apphome);
 if ( isset($CFG->lessons) ) {
     $set->addLeft('Lessons', $R.'lessons');
