@@ -13,10 +13,12 @@ require "nav.php";
 require_once "tsugi/admin/sanity-db.php";
 ?>
 <div id="container">
+<!--
 <div style="margin-left: 10px; float:right">
 <iframe width="400" height="225" src="" frameborder="0" allowfullscreen></iframe>
 </div>
-<div id="grid-container" style="display: grid; grid-template-columns: 15% 85%;">
+-->
+<div id="grid-container" style="display: grid; grid-template-columns: 10% 90%;">
 <img src="https://image.dig4e.com/images/imaginglogo.png" alt="Dig4E Imaging Logo" style = "width: 8em; height: 8em; grid-column: 1/2; border: 10 px; margin: 20px;"/>
 <h1 style="color: #0D805B; font-weight: 600; font-family: Raleway, Sans-Serif; font-size: 3em;grid-column: 2/2; padding-top: 1em; padding-left: 1em;">Digitization for Everybody - Audio</h1>
 </div>
