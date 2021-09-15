@@ -16,82 +16,31 @@ require_once "tsugi/admin/sanity-db.php";
 <div style="margin-left: 10px; float:right">
 <iframe width="400" height="225" src="" frameborder="0" allowfullscreen></iframe>
 </div>
-<h1>Digitization for Everybody - Imaging</h1>
+<div id="grid-container" style="display: grid; grid-template-columns: 15% 85%;">
+<img src="https://image.dig4e.com/images/imaginglogo.png" alt="Dig4E Imaging Logo" style = "width: 8em; height: 8em; grid-column: 1/2; border: 10 px; margin: 20px;"/>
+<h1 style="color: #0D805B; font-weight: 600; font-family: Raleway, Sans-Serif; font-size: 3em;grid-column: 2/2; padding-top: 1em; padding-left: 2em;">Digitization for Everybody - Imaging</h1>
+</div>
+<div id="container" style="dispalay: container; background-color: #0D805B; height: 1em; margin-top: 1em; margin-bottom: 1em;">
+</div>
+<div id="container" style= "color: #555555; font-family: Lusitana, Serif; font-weight: 500; font-size: 18px; margin-bottom: 1em;" >
+In the Dig4E Audio module, you learn about the present state of standards and recommended best practices for the digital re-recording of analog audio signals stored on magnetic tape. In most cases, the underlying technical standards for audio digitization are stable and complete, although professionals debate how to apply the standards to a wide variety of audio media. For the vast majority of the audio holdings in cultural heritage organizations, archival quality digitization is technically and administratively feasible.</div>
+<div id="container" style="dispalay: container; background-color: #0D805B; height: 1em; margin-top: 1em; margin-bottom: 1em;">
+</div>
+<div id="grid-container" style="display: grid; grid-template-columns: 30% 70%;">
+<iframe width="300" height="200" src="https://www.youtube.com/embed/XHOmBV4js_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="color: #555555; font-family: Lusitana, Serif; font-weight: 500; font-size: 18px;grid-column: 2/2; padding-top: 1em;">This video introduces the Audio module in the broader context of the risks and challenges to audio heritage. The primary points are the consequences of inaction, the critical value of digital processes for rescuing audio content, and the complexities of legacy playback. The video also introduces the top level learning goals for the Audio module.</p>
+</div>
+<div id="container" style="dispalay: container; background-color: #0D805B; height: 1em; margin-top: 1em; margin-bottom: 1em;">
+</div>
+<div id="grid-container" style ="display: grid; grid-template-columns: 50% 50%; grid-row-gap: 1em;" hover="background-color: rgba(158, 79, 0, 0.2);">
+<a href="https://image.dig4e.com/lessons"><img src="https://image.dig4e.com/images/lessons.png" alt="Lessons Logo" style= "width: 10em; height 10em; position: inline; margin-left: 35%; margin-right: 35%; hover: #9E4F002E"/></a>
+<a href="https://image.dig4e.com/assignments"><img src="https://image.dig4e.com/images/quizzes.png" alt="Quizzes Logo" style= "width: 10em; height 10em; position: inline; margin-left: 35%; margin-right: 50%;"/></a>
+<a href="https://image.dig4e.com/lessons" style="color: #00274C; font-family: Raleway, Sans-Serif; font-weight: 500; font-size: 2em; position: inline; margin-left: 39%; margin-right: 46%; grid-column: 1; grid-row: 2">Lessons</a>
+<a href="https://image.dig4e.com/assignments" style="color: #00274C; font-family: Raleway, Sans-Serif; font-weight: 500; font-size: 2em; position: inline; margin-left: 39%; margin-right: 46%; grid-column: 2; grid-row: 2">Quizzes</a>
+</div>
 <?php if ( isset($_SESSION['id']) ) { ?>
-<p>
-Welcome to our Massive Open Online Course (MOOC). Now that you have logged in, you have access to
-course-style features of this web site.
-<ul>
-<li>
-As you go through the <a href="lessons">Lessons</a> in the course you now will see additional
-links to the autograders in the class.  You can attempt the autograders and get a score.</li>
-<li>
-You can track your progress through the course using the <a href="tsugi/assignments.php">Assignments</a>
-tool and when you complete a group of assignments, you can earn a <a href="tsugi/badges.php">Badge</a>.
-You can download these badges and host them on your web site or refer the badge URLs on this site.</li>
-<li>
-There is an
-<a href="https://disqus.com/home/channel/webapplicationsforeverybody/" target="_blank">online disucsson forum</a>
-hosted by Disqus.</li>
-<li>
-You can use these Creative Commons Licensed materials
-such as the
-<a href="lectures" target="_blank">lectures</a>
-in your own classes.
-You can also
-<a href="tsugi/cc/export.php">export the course material</a> as an
-IMS Common Cartridge®, or apply for
-an IMS Learning Tools Interoperability® (LTI®)
-<a href="tsugi/admin/key/index.php">key and secret</a>
- to launch the autograders from your LMS.
-</li>
-</ul>
 <?php } else { ?>
-<p>
-Hello and welcome to my site where you can learn about the present state of standards and recommended
-best practices for creating digital still images from photographic and graphic source materials.
-<br>
-You can use this web site many different ways:
-<ul>
-<li>
-You browse my videos and course materials under <a href="lessons">Lessons</a>.  The materials
-I have developed
-for this class are all provided with a Creative Commons license so you can download or link to
-them to incorporate them into your own teaching if you like.</li>
-We take your privacy seriously on this site, you can review our
-<a href="privacy">Privacy Policy</a> for more details.
-</li>
-</ul>
 <?php } ?>
-This site uses <a href="http://www.tsugi.org" target="_blank">Tsugi</a>
-framework to embed a learning
-management system into this site and handle the autograders.
-If you are interested in collaborating
-to build these kinds of sites for yourself, please see the
-<a href="http://www.tsugi.org" target="_blank">tsugi.org</a> website.
-</p>
-<h3>Textbook</h3>
-<p>
-I am using an open textbook
-<a href="https://learn.shayhowe.com/html-css/"
-target="_new">
-Learn to Code HTML & CSS
-</a>
-by Shay Howe.
-All of the electronic copies
-of the book are free. Print copies of the book are available on
-<a href="https://www.informit.com/store/learn-to-code-html-and-css-develop-and-style-websites-9780321940520?ranMID=24808"
-target="_blank">Pearson</a>.
-</p>
-<h3>Copyright</h3>
-<p>
-All this material produced by Colleen Van Lent (including audio and video)
-is Copyright Creative Commons Attribution 3.0
-unless otherwise indicated.
-</p>
-<p>
---  Colleen
-</p>
 <!--
 <?php
 echo("IP Address: ".Net::getIP()."\n");
