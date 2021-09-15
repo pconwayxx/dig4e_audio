@@ -18,7 +18,7 @@ require_once "tsugi/admin/sanity-db.php";
 </div>
 <div id="grid-container" style="display: grid; grid-template-columns: 15% 85%;">
 <img src="https://image.dig4e.com/images/imaginglogo.png" alt="Dig4E Imaging Logo" style = "width: 8em; height: 8em; grid-column: 1/2; border: 10 px; margin: 20px;"/>
-<h1 style="color: #0D805B; font-weight: 600; font-family: Raleway, Sans-Serif; font-size: 3em;grid-column: 2/2; padding-top: 1em; padding-left: 2em;">Digitization for Everybody - Imaging</h1>
+<h1 style="color: #0D805B; font-weight: 600; font-family: Raleway, Sans-Serif; font-size: 3em;grid-column: 2/2; padding-top: 1em; padding-left: 1em;">Digitization for Everybody - Audio</h1>
 </div>
 <div id="container" style="dispalay: container; background-color: #0D805B; height: 1em; margin-top: 1em; margin-bottom: 1em;">
 </div>
