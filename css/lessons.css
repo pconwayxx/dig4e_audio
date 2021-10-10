@@ -1,6 +1,7 @@
 /* Module Style */
 .tsugi-all-modules-image-icon {
     width: 8em !important;
+    padding: .5em;
 }
 
 .tsugi-module-audio-icon {
