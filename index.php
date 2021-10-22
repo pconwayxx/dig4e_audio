@@ -29,8 +29,7 @@ In the Dig4E Audio module, you learn about the present state of standards and re
 <div id="container" style="dispalay: container; background-color: #0D805B; height: 1em; margin-top: 1em; margin-bottom: 1em;">
 </div>
 <div id="grid-container" style="display: grid; grid-template-columns: 30% 70%;">
-<iframe width="300" height="200" src="https://www.youtube.com/embed/XHOmBV4js_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p style="color: #555555; font-family: Lusitana, Serif; font-weight: 500; font-size: 18px;grid-column: 2/2; padding-top: 1em;">This video introduces the Audio module in the broader context of the risks and challenges to audio heritage. The primary points are the consequences of inaction, the critical value of digital processes for rescuing audio content, and the complexities of legacy playback. The video also introduces the top level learning goals for the Audio module.</p>
+<iframe width="300" height="200" src="https://www.youtube.com/embed/QhcWu-2dOxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p style="color: #555555; font-family: Lusitana, Serif; font-weight: 500; font-size: 18px;grid-column: 2/2; padding-top: 1em;">This video introduces the Audio module in the broader context of the risks and challenges to audio heritage. The primary points are the consequences of inaction, the critical value of digital processes for rescuing audio content, and the complexities of legacy playback. The video also introduces the top level learning goals for the Audio module.</p>
 </div>
 <div id="container" style="dispalay: container; background-color: #0D805B; height: 1em; margin-top: 1em; margin-bottom: 1em;">
 </div>
